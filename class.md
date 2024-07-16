@@ -1,4 +1,3 @@
-Kristian	
-Germany	
-Meta Front-End course
+Satya
+Meta Front-End Developer course
 
